@@ -4,4 +4,4 @@ metadata:
   name: demo-config
   namespace: default
 data:
-  maintenance_mode: "true"
+  maintenance_mode: true1
