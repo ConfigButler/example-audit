@@ -4,4 +4,4 @@ metadata:
   name: test-config3
   namespace: default
 data:
-  key: value
+  key: value12123
