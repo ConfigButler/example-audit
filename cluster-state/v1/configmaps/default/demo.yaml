@@ -1,6 +1,8 @@
 apiVersion: v1
 kind: ConfigMap
 metadata:
+  labels:
+    env: production
   name: demo
   namespace: default
 data:
