@@ -3,6 +3,8 @@ kind: ConfigMap
 metadata:
   annotations:
     freelens.app/resource-version: v1
+  labels:
+    env: production
   name: demo
   namespace: default
 data:
